@@ -1,3 +1,4 @@
 # image-to-pdf
-##Modules
-###Pypdf
+This Program will convert '.jpg' images to pdf.
+# Required Modules
+##PyPDF
